@@ -7,7 +7,7 @@
 ```
 1. install depedencies npm install or yarn
 2. if error after install, please re-install 'npm i typescript@latest ts-node@latest --save-dev'
-3. set .evn
+3. set .evn.sample to .env
 4. npm start or npx nodemon src/app.ts
 5. npm run test
 ```
