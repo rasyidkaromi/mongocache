@@ -6,9 +6,10 @@
 
 ```
 1. install depedencies npm install or yarn
-2. set .evn
-2. npm start or npx nodemon src/app.ts
-3. npm run test
+2. if error after install, please re-install 'npm i typescript@latest ts-node@latest --save-dev'
+3. set .evn
+4. npm start or npx nodemon src/app.ts
+5. npm run test
 ```
 
 ------------------------------------------------------------
@@ -63,7 +64,9 @@
 }
 ```
 
+```
 - TTL 60 second
+```
 
 ------------------------------
 ------------------------------
