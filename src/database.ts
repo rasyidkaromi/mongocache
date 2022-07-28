@@ -1,6 +1,5 @@
 import { Document, Model, model, Schema, Types, ConnectionOptions, connect, connection } from 'mongoose';
 
-import { DeletedData } from './type'
 import { ICacheData, CacheDataAttrs, CacheDataModel, IAttributeKey } from './interface';
 
 const cacheDataSchema = new Schema<IAttributeKey>({
